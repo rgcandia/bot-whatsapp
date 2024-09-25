@@ -1,0 +1,236 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491163688406@s.whatsapp.net',
+    fromMe: false,
+    id: 'EAF14370DB1CC33B2BB3E8B68B5329FB',
+    participant: undefined
+  },
+  messageTimestamp: 1727271160,
+  pushName: 'Ale Candia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Boti',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Boti',
+  from: '5491163688406'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_197db6cc-a4a0-4976-86a3-9a67c706dea1',
+  keyword: 'key_802359ef-00c2-417e-9855-971aa7f6bd80',
+  answer: 'Verificando número de teléfono...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9f61643df9f1f1665fb8213b799c4e33'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc705edb-cdef-4823-8906-29d0b9e3089e',
+  keyword: 'ans_197db6cc-a4a0-4976-86a3-9a67c706dea1',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'd0cf9142b66123f1251b421ea7188717'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491163688406@s.whatsapp.net',
+    fromMe: false,
+    id: 'E6E3990C8FE5574147F8EDE49C5DA169',
+    participant: undefined
+  },
+  messageTimestamp: 1727271166,
+  pushName: 'Ale Candia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Qwe',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Qwe',
+  from: '5491163688406'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491163688406@s.whatsapp.net',
+    fromMe: false,
+    id: '6E7C50B7C400247420FF2FF93E856C84',
+    participant: undefined
+  },
+  messageTimestamp: 1727271179,
+  pushName: 'Ale Candia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cómo estás aale',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cómo estás aale',
+  from: '5491163688406'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491163688406@s.whatsapp.net',
+    fromMe: false,
+    id: 'A54335BD0D93A90C6ABC76BE2B5016D5',
+    participant: undefined
+  },
+  messageTimestamp: 1727271197,
+  pushName: 'Ale Candia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cómo conquistó el mundo ?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cómo conquistó el mundo ?',
+  from: '5491163688406'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491163688406@s.whatsapp.net',
+    fromMe: false,
+    id: '7A5FC1CB3A1C87EAFB74E112973DA1F9',
+    participant: undefined
+  },
+  messageTimestamp: 1727271213,
+  pushName: 'Ale Candia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Porque no me respondiste la pregunta',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Porque no me respondiste la pregunta',
+  from: '5491163688406'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491163688406@s.whatsapp.net',
+    fromMe: false,
+    id: '49907788D5F4669E8E27122147CE33A0',
+    participant: undefined
+  },
+  messageTimestamp: 1727271228,
+  pushName: 'Ale Candia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cómo conquistó el mundo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cómo conquistó el mundo',
+  from: '5491163688406'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491163688406@s.whatsapp.net',
+    fromMe: false,
+    id: '0D60111953B928D956315F91ED64B251',
+    participant: undefined
+  },
+  messageTimestamp: 1727271239,
+  pushName: 'Ale Candia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Quien es el presidente de argentina',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Quien es el presidente de argentina',
+  from: '5491163688406'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491163688406@s.whatsapp.net',
+    fromMe: false,
+    id: '693CD0365865165173C41475B9F16054',
+    participant: undefined
+  },
+  messageTimestamp: 1727271253,
+  pushName: 'Ale Candia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cuántos años tenws',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cuántos años tenws',
+  from: '5491163688406'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491163688406@s.whatsapp.net',
+    fromMe: false,
+    id: '335B4335BCA7FD624271AFEDC42FF0BA',
+    participant: undefined
+  },
+  messageTimestamp: 1727271263,
+  pushName: 'Ale Candia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Conquistar el mundo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Conquistar el mundo',
+  from: '5491163688406'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491163688406@s.whatsapp.net',
+    fromMe: false,
+    id: '35DA33DFF4107B79BF0C3A5488FCDE9D',
+    participant: undefined
+  },
+  messageTimestamp: 1727271272,
+  pushName: 'Ale Candia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Salir',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Salir',
+  from: '5491163688406'
+}
